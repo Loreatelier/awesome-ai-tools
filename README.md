@@ -322,6 +322,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 ### Services
 
 - [Craiyon](https://www.craiyon.com/) - Craiyon, formerly DALL-E mini, is an AI model that can draw images from any text prompt.
+- [Seedream 5.5](https://seedream55.io/) - Web app for the Seedream 5.5 text-to-image and image-editing model, with multi-image blending and a documented aspect ratio/resolution picker.
 - [DreamStudio](https://beta.dreamstudio.ai/) - DreamStudio is an easy-to-use interface for creating images using the Stable Diffusion image generation model.
 - [Artbreeder](https://www.artbreeder.com/) - Artbreeder is a new type of creative tool that empowers users creativity by making it easier to collaborate and explore.
 - [GauGAN2](http://gaugan.org/gaugan2/) - GauGAN2 is a robust tool for creating photorealistic art using a combination of words and drawings since it integrates segmentation mapping, inpainting, and text-to-image production in a single model.
